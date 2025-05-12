@@ -2,6 +2,6 @@ package oshka_guru_qa;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello, epta!");
+        System.out.println("Hello!");
     }
 }
